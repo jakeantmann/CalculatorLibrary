@@ -10,5 +10,7 @@ def subtract(first_term, second_term):
     """Subtract two numbers."""
     return first_term - second_term
 
+
 def multiply(first_term, second_term):
-    return first_term * second_term  
+    """Multiply two numbers."""
+    return first_term * second_term
